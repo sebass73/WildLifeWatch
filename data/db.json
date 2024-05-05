@@ -1,0 +1,164 @@
+{
+  "animales": [
+    {
+      "id": 1,
+      "nombre": "Tigre de Bengala",
+      "especie": "Panthera tigris tigris",
+      "estado": "En peligro crítico",
+      "descripcion": "El tigre de Bengala es la subespecie de tigre más numerosa, pero aún así se encuentra en peligro crítico debido a la caza furtiva y la pérdida de hábitat.",
+      "imagen": "url_imagen_tigre_bengala.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Rinoceronte blanco",
+      "especie": "Ceratotherium simum",
+      "estado": "Casi amenazado",
+      "descripcion": "El rinoceronte blanco es el segundo rinoceronte terrestre más grande después del rinoceronte indio. Su nombre 'blanco' proviene de la palabra 'wijde', que significa 'ancho' en afrikáans, debido a su labio ancho adaptado para pastar.",
+      "imagen": "url_imagen_rinoceronte_blanco.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "León africano",
+      "especie": "Panthera leo",
+      "estado": "Vulnerable",
+      "descripcion": "El león africano es una especie de mamífero carnívoro de la familia Felidae. Es conocido por su distintiva melena y su papel como uno de los animales más icónicos del mundo.",
+      "imagen": "url_imagen_leon_africano.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Elefante africano",
+      "especie": "Loxodonta africana",
+      "estado": "Vulnerable",
+      "descripcion": "El elefante africano es el animal terrestre más grande del mundo. Se distingue de su pariente asiático por sus orejas más grandes y la forma de su espalda.",
+      "imagen": "url_imagen_elefante_africano.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Panda gigante",
+      "especie": "Ailuropoda melanoleuca",
+      "estado": "Vulnerable",
+      "descripcion": "El panda gigante es un oso nativo de China central y es conocido por su distintivo pelaje blanco y negro. Es un símbolo de conservación en todo el mundo.",
+      "imagen": "url_imagen_panda_gigante.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Tortuga laúd",
+      "especie": "Dermochelys coriacea",
+      "estado": "Vulnerable",
+      "descripcion": "La tortuga laúd es la tortuga marina más grande y una de las especies de tortugas más grandes del mundo. Se encuentra en peligro principalmente debido a la pesca incidental y la contaminación.",
+      "imagen": "url_imagen_tortuga_laud.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Gorila de montaña",
+      "especie": "Gorilla beringei beringei",
+      "estado": "En peligro crítico",
+      "descripcion": "El gorila de montaña es una subespecie de gorila oriental que se encuentra en las montañas de África Central. Es uno de los primates más grandes y se encuentra en peligro crítico debido a la caza furtiva y la pérdida de hábitat.",
+      "imagen": "url_imagen_gorila_montana.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Orangután de Borneo",
+      "especie": "Pongo pygmaeus",
+      "estado": "En peligro crítico",
+      "descripcion": "El orangután de Borneo es una especie de orangután nativa de la isla de Borneo. Es conocido por su inteligencia y su capacidad para utilizar herramientas en la naturaleza.",
+      "imagen": "url_imagen_orangutan_borneo.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Pangolín",
+      "especie": "Manis spp.",
+      "estado": "En peligro crítico",
+      "descripcion": "Los pangolines son mamíferos escamosos que se alimentan principalmente de insectos. Son cazados por su carne y sus escamas, lo que ha llevado a un rápido declive de sus poblaciones en la naturaleza.",
+      "imagen": "url_imagen_pangolin.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Oso polar",
+      "especie": "Ursus maritimus",
+      "estado": "Vulnerable",
+      "descripcion": "El oso polar es una especie de oso que habita en el círculo polar ártico y sus alrededores. Es el mamífero terrestre más grande de la región ártica.",
+      "imagen": "url_imagen_oso_polar.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Canguro rojo",
+      "especie": "Macropus rufus",
+      "estado": "Menor preocupación",
+      "descripcion": "El canguro rojo es el canguro más grande y uno de los marsupiales más grandes. Es nativo de Australia y se encuentra en varios tipos de hábitats, desde bosques hasta desiertos.",
+      "imagen": "url_imagen_canguro_rojo.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Leopardo de las nieves",
+      "especie": "Panthera uncia",
+      "estado": "Vulnerable",
+      "descripcion": "El leopardo de las nieves es un gran felino nativo de las montañas de Asia Central y del Sur. Está adaptado a vivir en entornos extremadamente fríos y es conocido por su hermoso pelaje gris y blanco.",
+      "imagen": "url_imagen_leopardo_nieves.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Lémur de cola anillada",
+      "especie": "Lemur catta",
+      "estado": "Vulnerable",
+      "descripcion": "El lémur de cola anillada es un lémur endémico de Madagascar. Es conocido por su cola larga y anillada y por su comportamiento social único.",
+      "imagen": "url_imagen_lemur_cola_anillada.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Puma",
+      "especie": "Puma concolor",
+      "estado": "Preocupación menor",
+      "descripcion": "El puma, también conocido como león de montaña o león de América, es un gran felino nativo de América. A pesar de su nombre común, no está estrechamente relacionado con el león.",
+      "imagen": "url_imagen_puma.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Guepardo",
+      "especie": "Acinonyx jubatus",
+      "estado": "Vulnerable",
+      "descripcion": "El guepardo es un gran felino conocido por ser el animal terrestre más rápido del mundo. A pesar de su velocidad, es vulnerable a la pérdida de hábitat y la caza furtiva.",
+      "imagen": "url_imagen_guepardo.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Pavo real",
+      "especie": "Pavo cristatus",
+      "estado": "Preocupación menor",
+      "descripcion": "El pavo real es una especie de ave galliforme nativa del sur de Asia. Es conocido por su colorido plumaje y su distintiva cola en forma de abanico, que utiliza en el cortejo.",
+      "imagen": "url_imagen_pavo_real.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Cóndor de los Andes",
+      "especie": "Vultur gryphus",
+      "estado": "Vulnerable",
+      "descripcion": "El cóndor de los Andes es una especie de ave rapaz nativa de América del Sur. Es uno de los cóndores más grandes del mundo y es un símbolo de los Andes.",
+      "imagen": "url_imagen_condor_andes.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Quetzal",
+      "especie": "Pharomachrus mocinno",
+      "estado": "Preocupación menor",
+      "descripcion": "El quetzal es un ave trogoniforme nativa de América Central. Es conocido por su brillante plumaje verde y rojo, y es un símbolo de libertad y belleza en muchas culturas indígenas.",
+      "imagen": "url_imagen_quetzal.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Manatí",
+      "especie": "Trichechus",
+      "estado": "Vulnerable",
+      "descripcion": "Los manatíes son grandes mamíferos marinos que se encuentran en aguas cálidas y poco profundas de regiones costeras. Son conocidos por su naturaleza tranquila y su dieta herbívora.",
+      "imagen": "url_imagen_manati.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Lobo ibérico",
+      "especie": "Canis lupus signatus",
+      "estado": "En peligro crítico",
+      "descripcion": "El lobo ibérico es una subespecie de lobo nativa de la Península Ibérica. Se encuentra en peligro crítico debido a la caza y la pérdida de hábitat.",
+      "imagen": "url_imagen_lobo_iberico.jpg"
+    }
+  ]
+}
