@@ -24,7 +24,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="pe-4">
-        <button className="btn btn-outline-dark my-2" onClick={handleTheme}>
+        <button className="btn btn-dark my-2" onClick={handleTheme}>
           {
             theme === 'success' ? 'Green' : 'Blue'
           }</button>
