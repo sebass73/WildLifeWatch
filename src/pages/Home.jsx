@@ -1,11 +1,11 @@
 import React from "react";
-import SpeciesList from "../components/SpeciesList";
+import VideoBackground from '../components/VideoBackground';
 
 const Home = () => {
   return (
-    <div>
-
-    </div>
+    <>
+      <VideoBackground />
+    </>
   );
 };
 

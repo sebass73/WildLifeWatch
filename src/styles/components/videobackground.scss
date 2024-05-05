@@ -1,0 +1,33 @@
+  .handleStyle {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+  }
+
+  .about {
+      position: relative;
+      width: 100%;
+      height: 85vh;
+      min-Height: 60vh;
+  }
+
+  .content {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      display: flex;
+      flex-Direction: column;
+      justify-Content: center;
+      align-Items: center;
+      color: white;
+  }
+
+  .overlayStyle {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-Color: rgba(0, 0, 0, 0.5);
+  }
