@@ -1,0 +1,33 @@
+.card {
+    padding-right: 2em;
+    padding-left: 2em;
+    margin: 1em;
+}
+
+.card-img-top{
+    padding: 1em; 
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+@media (min-width: 768px) {
+    .card {
+        flex-basis: 45%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .card {
+        flex-basis: 30%;
+    }
+}
+

@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import SpeciesCard from "./SpeciesCard";
+import '../styles/components/speciesList.scss'
 
 const SpeciesList = () => {
-  //const species =
 
   const [species, setSpecies] = useState(null);
 

@@ -1,13 +1,20 @@
 import React from "react";
+import '../styles/components/speciesCard.scss'
 
 const SpeciesCard = ({ species }) => {
   return (
-    <div className="species-card">
-      <img src={species.imagen} alt={species.nombre} />
-      <h3>{species.nombre}</h3>
-      <p>{species.descripcion}</p>
-      <p className="text-danger">{species.estado}</p>
-    </div>
+    <>
+      <div className="card">
+        <img src={species.imagen} className="card-img-top" alt="..." />
+        <div className="card-body">
+          <h5 className="card-title">{species.nombre}</h5>
+          <p className="card-text">{species.descripcion}</p>
+          <button href="#" className="btn" style={{backgroundColor: '#ff5722'}}>
+            Donate
+          </button>
+        </div>
+      </div>
+    </>
   );
 };
 
